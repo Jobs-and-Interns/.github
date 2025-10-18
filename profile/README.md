@@ -77,12 +77,12 @@ To democratize access to career opportunities by creating an open platform where
 ### The Jobs and Interns Ecosystem
 
 ```
-┌─────────────────┐         ┌──────────────────┐         ┌─────────────────┐
+┌─────────────────┐          ┌──────────────────┐         ┌─────────────────┐
 │   Recruiters    │────────▶│  Jobs & Interns  │────────▶│   Job Seekers   │
-│   Share Jobs    │         │    Platform      │         │   Find Roles    │
-└─────────────────┘         └──────────────────┘         └─────────────────┘
-                                     │
-                                     ▼
+│   Share Jobs    │          │    Platform      │         │   Find Roles    │
+└─────────────────┘          └──────────────────┘         └─────────────────┘
+                                      │
+                                      ▼
                             ┌──────────────────┐
                             │    Community     │
                             │   Verification   │
